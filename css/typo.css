@@ -4,8 +4,9 @@ body {
   color: #404040;
 }
 a {
-  color: #e81d62;
+  color: #cb202f;
 }
 a:hover {
+  color: #9f1925;
   text-decoration: none;
 }
