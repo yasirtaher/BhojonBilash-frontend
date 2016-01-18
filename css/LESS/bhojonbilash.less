@@ -39,6 +39,20 @@ body {
 .navbar-right{
   margin-right: 0px;
 }
+//
+//.btn-default:active:hover,
+//.btn-default.active:hover,
+//.open > .dropdown-toggle.btn-default:hover,
+//.btn-default:active:focus,
+//.btn-default.active:focus,
+//.open > .dropdown-toggle.btn-default:focus,
+//.btn-default:active.focus,
+//.btn-default.active.focus,
+//.open > .dropdown-toggle.btn-default.focus {
+//  color: #333;
+//  background-color: #d4d4d4;
+//  border-color: #8c8c8c;
+//}
 
 .vb-body{
   background-color: @adbd-body-color;
@@ -51,6 +65,32 @@ body {
 .search-bar img{
   width: 100%;
   height: 300px;
+}
+
+
+.list-group-item:first-child{
+  border-top-right-radius:@common-border-radius;
+  border-top-left-radius:@common-border-radius ;
+}
+
+.list-group-item:last-child{
+  border-bottom-left-radius: @common-border-radius;
+  border-bottom-right-radius: @common-border-radius;
+}
+
+a.list-group-item:hover,a.list-group-item:focus{
+  z-index: 2;
+  color: #fff;
+  background-color: lighten(@adbd-color1,20%);
+  //border-color: @adbd-color1;
+
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  z-index: 2;
+  color: #fff;
+  background-color: @adbd-color1;
+  border-color: @adbd-color1;
 }
 
 .slide-image {
