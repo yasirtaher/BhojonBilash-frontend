@@ -347,6 +347,11 @@ body {
   color: #cb202f;
   background-color: transparent;
 }
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-brand:hover {
+  color: #cb202f;
+  background-color: transparent;
+}
 .navbar-inverse .navbar-toggle {
   border-color: #cb202f;
 }
