@@ -9,8 +9,15 @@
         <div class="row">
 
 <!--            side bar-->
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <p class="lead">Shop Name</p>
+                <div class="list-group">
+                    <a href="#" class="list-group-item">Category 1</a>
+                    <a href="#" class="list-group-item">Category 2</a>
+                    <a href="#" class="list-group-item">Category 3</a>
+                </div>
+
+                <p class="lead">Popular Cuisines</p>
                 <div class="list-group">
                     <a href="#" class="list-group-item">Category 1</a>
                     <a href="#" class="list-group-item">Category 2</a>
@@ -18,7 +25,7 @@
                 </div>
             </div>
 
-            <div class="col-md-9">
+            <div class="col-md-7">
 
 <!--                <div class="row carousel-holder">-->
 <!---->
@@ -187,6 +194,24 @@
 
                 </div>
 
+
+
+            </div>
+
+            <div class="col-md-3">
+                <p class="lead">Shop Name</p>
+                <div class="list-group">
+                    <a href="#" class="list-group-item">Category 1</a>
+                    <a href="#" class="list-group-item">Category 2</a>
+                    <a href="#" class="list-group-item">Category 3</a>
+                </div>
+
+                <p class="lead">Popular Cuisines</p>
+                <div class="list-group">
+                    <a href="#" class="list-group-item">Category 1</a>
+                    <a href="#" class="list-group-item">Category 2</a>
+                    <a href="#" class="list-group-item">Category 3</a>
+                </div>
             </div>
 
         </div>
