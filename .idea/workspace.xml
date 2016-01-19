@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="371f915e-f924-4904-ab74-8a9143db0165" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/adbd_common.css" afterPath="$PROJECT_DIR$/css/adbd_common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bhojonbilash.css" afterPath="$PROJECT_DIR$/css/bhojonbilash.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/LESS/bhojonbilash.less" afterPath="$PROJECT_DIR$/css/LESS/bhojonbilash.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lessc/lessc.xml" afterPath="$PROJECT_DIR$/.idea/lessc/lessc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.php" afterPath="$PROJECT_DIR$/single.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/typo.css" afterPath="$PROJECT_DIR$/css/typo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/LESS/typo.less" afterPath="$PROJECT_DIR$/css/LESS/typo.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="371f915e-f924-4904-ab74-8a9143db0165" name="Default" comment="" />
     <ignored path="BhojonBilash-frontend.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
